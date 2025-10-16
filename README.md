@@ -1,6 +1,7 @@
 # Hello, this is pictomo!
 
-## [website](https://pictomo.github.io)
+## website
+[https://pictomo.github.io](https://pictomo.github.io)
 
 ## github-readme-stats
 
